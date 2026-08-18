@@ -1,0 +1,14 @@
+{
+  "schema": "desarrollamo.project.v1",
+  "repository": "amoedo7/Eros",
+  "name": "Eros",
+  "ecosystem": "DesarrollAMO",
+  "type": "web-stub",
+  "lifecycle": "historical-stub",
+  "visibility": "public",
+  "source_of_truth": false,
+  "production_url": null,
+  "related": [],
+  "reviewed_at": "2026-08-18",
+  "notes": ["Minimal HTML/CSS/JS project preserved as history."]
+}
